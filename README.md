@@ -12,4 +12,4 @@ The database also contains a regular expression for detecting attacks using User
 
 ## Download
 
-OpenCart Plugin:   [messor-opencart](hhttps://github.com/messor-network/messor-opencart/releases)
+OpenCart Plugin:   (https://github.com/messor-network/messor-opencart/releases)
