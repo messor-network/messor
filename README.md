@@ -1,4 +1,4 @@
-# Messor security
+# Messor security peer-to-peer IPS
 
 ![Messor-logo](https://messornetwork.com/images/github/messor/1.png)
 
